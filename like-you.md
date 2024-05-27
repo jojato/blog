@@ -6,7 +6,7 @@ tags:
   - "#notes/hebrew"
 ---
 created: 8:04 PM - May 27, 2024
-modified: 10:36 PM - May 27, 2024
+modified: 10:45 PM - May 27, 2024
 
 Вот три разных способа сказать "ты мне нравишься" на иврите:
 
