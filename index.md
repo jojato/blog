@@ -1,9 +1,13 @@
 ---
-title: 
 share: "true"
-created: 
-description: index page
+title: Заметки Иврит от jojato
+description: index page description
+filename: index
+created: 2024-05-27T16:34:00
 ---
 # Заметки Иврит
 
-[rak](./rak.md)
+## Здесь вы найдете
+
+- [Чем отличается בלבד от רק]([rak](./rak.md))
+
