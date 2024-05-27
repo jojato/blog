@@ -1,14 +1,15 @@
 ---
 share: "true"
 title: Заметки Иврит
-description: index page description
-filename: index
-created: 2024-05-27T16:34:00
+description: Заметки для изучения иврита
+created:
+  - 2024-05-27T16:34:00
 ---
 
 ## Здесь вы найдете
-- [Чем отличается בלבד от רק](./rak.md)
-- [Ты мне нравишься на иврите](./like.md)
+- [[./looks-good|looks-good]]: Три разных способа сказать выглядишь круто на иврите
+- [[./like-you|like-you]]: Три разных способа сказать "ты мне нравишься" на иврите
+- [[./only-rak-bilvad|only-rak-bilvad]]: Чем отличается בלבד от רק
 
 
 
