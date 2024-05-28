@@ -5,7 +5,7 @@ description: Заметки для изучения иврита
 created:
   - 2024-05-27T16:34:00
 ---
-При поддержке [капитана Шаблюля](./shablul-halal.md#)
+При поддержке [shablul-halal](./shablul-halal.md)
 ## Здесь вы найдете
 - [shablul-halal](./shablul-halal.md): Капитан Шаблюль
 - [shablul](./shablul.md): Улитка שבלול и חילזון
