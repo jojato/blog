@@ -2,5 +2,6 @@
 theme: minima
 
 header_pages:
+  - about.md
 
 google_analytics: G-NV0KVFD3QY
