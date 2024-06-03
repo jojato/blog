@@ -7,6 +7,8 @@ created:
 ---
 При поддержке [shablul-halal](./shablul-halal.md)
 ## Здесь вы найдете
+- [makom-sameah](./makom-sameah.md): Как сказать что-то хорошее про квартиру, дом, кафе, клуб, сообщество и другие места
+- [makom-tov](./makom-tov.md): Как сказать на иврите место добра и позитива? חיוביות מקום
 - [shablul-halal](./shablul-halal.md): Капитан Шаблюль
 - [shablul](./shablul.md): Улитка שבלול и חילזון
 - [ishur](./ishur.md): Что такое ишур אישור
