@@ -5,8 +5,8 @@ share: "true"
 tags:
   - "#notes/hebrew"
 ---
-created: 10:48 PM - May 28, 2024
-modified: 11:04 PM - May 28, 2024
+created: 10:48 אחה״צ - מאי 28, 2024
+modified: 11:04 אחה״צ - מאי 28, 2024
 
 ![shablul.webp](./Blog/Hebrew/shablul.webp)
 Picture: Captain **שבלול**
