@@ -1,25 +1,24 @@
 ---
 share: "true"
-title: Заметки Иврит
-description: Заметки для изучения иврита
-created:
-  - 2024-05-27T16:34:00
+title: Sasha Magenta blog
+description: 
+created: 2024-06-13
 ---
-При поддержке [shablul-halal](./shablul-halal.md)
-## Здесь вы найдете
-- [makom-sameah](./makom-sameah.md): Как сказать что-то хорошее про квартиру, дом, кафе, клуб, сообщество и другие места
-- [makom-tov](./makom-tov.md): Как сказать на иврите место добра и позитива? חיוביות מקום
-- [shablul-halal](./shablul-halal.md): Капитан Шаблюль
-- [shablul](./shablul.md): Улитка שבלול и חילזון
-- [ishur](./ishur.md): Что такое ишур אישור
-- [zuman](./zuman.md): זומן - назначение, заказ или приглашение
-- [zainkus](./zainkus.md): Про слово זין и קוס
-- [Gay](./Gay.md): Выражения, используемые в отношении геев. הומו
-- [bevakasha](./bevakasha.md): Этимология слова בבקשה, можно ли говорить בקשה
-- [erev-tov](./erev-tov.md): Как сказать на иврите, прекрасный вечер не правда ли?
-- [looks-good](./looks-good.md): Три разных способа сказать выглядишь круто на иврите
-- [like-you](./like-you.md): Три разных способа сказать "ты мне нравишься" на иврите
-- [only-rak-bilvad](./only-rak-bilvad.md): Чем отличается בלבד от רק
+# Shared Pages
+
+Это тексты заметок с тегом #shared и/или #notes/hebrew
+
+- [Кафе поедим](./%D0%9A%D0%B0%D1%84%D0%B5%20%D0%BF%D0%BE%D0%B5%D0%B4%D0%B8%D0%BC.md)
+- [Патриотизм](./%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%D0%B8%D0%B7%D0%BC.md)
 
 
 
+## Заметки про иврит
+
+[Очень странные записки](./index-hebrew.md#) 
+
+
+
+
+###### Коммуникация
+@jojato
