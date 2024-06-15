@@ -26,6 +26,6 @@ tags:
 
 
 
-created: 1:59 PM - June 03, 2024
-modified: 2:06 PM - June 03, 2024
+created: 1:59 אחה״צ - יוני 03, 2024
+modified: 2:06 אחה״צ - יוני 03, 2024
 
