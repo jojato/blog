@@ -5,8 +5,8 @@ share: "true"
 tags:
   - "#notes/hebrew"
 ---
-created: 2:30 PM - May 28, 2024
-modified: 7:06 PM - May 28, 2024
+created: 2:30 אחה״צ - מאי 28, 2024
+modified: 7:06 אחה״צ - מאי 28, 2024
 
 [Gay](./Gay.md)
 
