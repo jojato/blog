@@ -9,6 +9,15 @@ created:
 
 При поддержке [shablul-halal](./shablul-halal.md)
 ## Здесь вы найдете
+- [kol-kah-arbe](./kol-kah-arbe.md): Как исподбховать כל כך הרבה
+- [ksheoradti](./ksheoradti.md): Как образовано слово כשהורדתי?
+- [al-i-shfiut](./al-i-shfiut.md): Как перевести על אי שפיות
+- [im-tik](./im-tik.md): Как перевести עם תיק
+- [pashosh](./pashosh.md): Что такое פשוש пашош
+- [samti](./samti.md): Как обраховано слово שמתי
+- [prompter](./prompter.md): Как обраховано слово מהפרומפטר
+- [alav](./alav.md): Как обраховано слово עליו
+- [margish-nifla](./margish-nifla.md): מרגיש נפלה разбор и перевод
 - [lomed-ivrit](./lomed-ivrit.md): Учи иврит
 - [Tattoo](./Tattoo.md): Запись в тату салон
 - [Smallness](./Smallness.md): Как сказать на иврите малюсенький
