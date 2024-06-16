@@ -6,10 +6,10 @@ tags:
   - "#notes/hebrew"  
   - notes/hebrew/word  
 ---  
-# Как обраховано слово מהפרומפטר  
+  
   
 created: 4:37 PM - June 16, 2024  
-modified: 4:44 PM - June 16, 2024  
+modified: 10:23 PM - June 16, 2024  
   
 Слово "מהפרומפטר" (ме-hа-промптер) на иврите образовано из нескольких частей:  
   

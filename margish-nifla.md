@@ -1,5 +1,5 @@
 ---  
-title: מרגיש נפלה разбор и перевод  
+title: Разбор и перевод песни נורוז ובוי אצ׳י - מרגיש נפלא  
 description: Перевод песни מרגיש נפלה  и построчный разбор  
 share: "true"  
 tags:  
@@ -8,17 +8,9 @@ tags:
   - video  
 ---  
 created: 12:59 PM - June 16, 2024  
-modified: 9:33 PM - June 16, 2024  
+modified: 10:30 PM - June 16, 2024  
   
-# Разбор и перевод נורוז ובוי אצ׳י - מרגיש נפלא  
-  
-```vid  
 https://youtu.be/J9Twjf5Ocak?si=Y93Uc1crQYQlzD71  
-Title: נורוז ובוי אצ׳י - מרגיש נפלא // NOROZ & BOI ECCHI - MARGISH NIFLA (קליפ רשמי)  
-Author: NOROZ נורוז  
-Thumbnail: J9Twjf5Ocak.jpg  
-AuthorUrl: https://www.youtube.com/@norozofficial  
-```  
   
 ## Полный текст песни  
   
