@@ -6,8 +6,8 @@ tags:
   - "#notes/hebrew"
 ---
 
-created: 7:52 לפנה״צ - מאי 28, 2024
-modified: 7:54 לפנה״צ - מאי 28, 2024
+created: 7:52 AM - May 28, 2024
+modified: 7:54 AM - May 28, 2024
 
 ## На иврите это будет звучать так:
 
