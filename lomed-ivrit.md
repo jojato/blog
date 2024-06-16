@@ -5,8 +5,11 @@ share: "true"
 tags:
   - "#notes/hebrew"
 ---
-`created: $= dv.current().file.ctime`
-`modified: $= dv.current().file.mtime`
+
+created: 1:18 לפנה״צ - יוני 16, 2024
+modified: 2:16 לפנה״צ - יוני 16, 2024
+
+
 # Учи иврит по всей земле
 
 Оля: 
