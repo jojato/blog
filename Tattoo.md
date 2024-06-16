@@ -7,8 +7,8 @@ tags:
   - tattoo
   - тату
 ---
-`created: $= dv.current().file.ctime`
-`modified: $= dv.current().file.mtime`
+created: 10:54 PM - June 15, 2024
+modified: 2:17 AM - June 16, 2024
 
 # Как записаться в тату-салон на иврите
 

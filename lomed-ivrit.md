@@ -6,8 +6,8 @@ tags:
   - "#notes/hebrew"
 ---
 
-created: 1:18 לפנה״צ - יוני 16, 2024
-modified: 2:16 לפנה״צ - יוני 16, 2024
+created: 1:18 AM - June 16, 2024
+modified: 2:16 AM - June 16, 2024
 
 
 # Учи иврит по всей земле
