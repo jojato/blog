@@ -8,9 +8,6 @@ created: 2024-06-13
   
 Это тексты заметок с тегом #shared и/или #notes/hebrew  
   
-- [Poedim-vmeste](./Poedim-vmeste.md): \-  
-- [Patriotism](./Patriotism.md): \-  
-- [Obnimashki-sign](./Obnimashki-sign.md): Знак обнимашки  
   
   
 ## Заметки про иврит  
@@ -21,5 +18,4 @@ created: 2024-06-13
   
   
   
-###### Коммуникация  
-@jojato  
+@jojato   
