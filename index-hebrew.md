@@ -9,6 +9,7 @@ created:
   
 При поддержке [shablul-halal](./shablul-halal.md)  
 ## Здесь вы найдете  
+- [haval-al-azman](./haval-al-azman.md): חבל על הזמן - жаль времени или отлично?  
 - [kol-kah-arbe](./kol-kah-arbe.md): Как использовать כל כך הרבה  
 - [ksheoradti](./ksheoradti.md): Как образовано слово כשהורדתי?  
 - [al-i-shfiut](./al-i-shfiut.md): Как перевести על אי שפיות  
