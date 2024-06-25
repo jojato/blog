@@ -9,6 +9,7 @@ created:
   
 При поддержке [shablul-halal](./shablul-halal.md)  
 ## Здесь вы найдете  
+- [zafran](./zafran.md): זעפרן (зафран) - шафран  
 - [marak-batzal](./marak-batzal.md): אני אכין מרק בצל - готовить луковый суп  
 - [haval-al-azman](./haval-al-azman.md): חבל על הזמן - жаль времени или отлично?  
 - [kol-kah-arbe](./kol-kah-arbe.md): Как использовать כל כך הרבה  
