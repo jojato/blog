@@ -1,13 +1,13 @@
 ---  
 title: Как использовать כל כך הרבה  
-description: ""  
+description: Фраза коль как арбе. Примеры использования и перевод.  
 share: "true"  
 tags:  
   - "#notes/hebrew"  
   - notes/hebrew/word  
 ---  
-created: 9:08 PM - June 16, 2024  
-modified: 10:24 PM - June 16, 2024  
+created: 9:08 אחה״צ - יוני 16, 2024  
+modified: 10:55 לפנה״צ - יוני 25, 2024  
   
 ## Примеры использования фразы כל כך הרבה  
   
