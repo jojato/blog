@@ -9,6 +9,7 @@ created:
   
 При поддержке [shablul-halal](./shablul-halal.md)  
 ## Здесь вы найдете  
+- [laasot](./laasot.md): Сделал, сделаю, делаю, делать на иврите. לעשות  
 - [zafran](./zafran.md): זעפרן (зафран) - шафран  
 - [marak-batzal](./marak-batzal.md): אני אכין מרק בצל - готовить луковый суп  
 - [haval-al-azman](./haval-al-azman.md): חבל על הזמן - жаль времени или отлично?  
